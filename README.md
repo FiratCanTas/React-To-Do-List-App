@@ -13,7 +13,7 @@ This project has been developed to help users plan and replace some tasks in the
 
 ## Built With
 
-While developing this project, JavaScript was used as the programming language. It was written in EcmaScript 6 and higher standards and developed with functional programming paradigm. Work was done on component architecture with the React library, and additionally, "id" values were assigned to each object to be used in the project using the UUID (Universal Unique Identifier) package. HTML5 and CSS3 were used while developing the interface. In addition to these, he used "Font Awesome" icons while styling some of the buttons.
+While developing this project, JavaScript was used as the programming language. It was written in EcmaScript 6 and above standards and developed with functional programming paradigm. Work has been done on the component architecture with the React library and also "id" values have been assigned to each object to be used in the project by using the UUID (Universal Unique Identifier) package. While developing the interface, HTML5 and CSS3 technologies were used, and the positions of the elements on the screen were determined with the flexbox feature. In addition to these, he used "Font Awesome" icons while shaping some of the buttons.
 
 * [React](https://react.dev/)
 * [Font Awesome](https://fontawesome.com/)
