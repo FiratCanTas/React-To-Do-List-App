@@ -1,5 +1,8 @@
 <br/>
 <p align="center">
+   <a href="https://github.com/FiratCanTas/React-To-Do-List-App">
+   <img src="https://cdn-icons-png.flaticon.com/512/4697/4697260.png" width="90" height="90">
+  </a>
   <h3 align="center">Todo List App</h3>
 
 </p>
