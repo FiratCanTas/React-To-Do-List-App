@@ -1,5 +1,8 @@
 <br/>
 <p align="center">
+   <a href="https://github.com/FiratCanTas/React-To-Do-List-App">
+   <img src="https://cdn-icons-png.flaticon.com/512/4697/4697260.png" width="90" height="90">
+  </a>
   <h3 align="center">Todo List App</h3>
 
 </p>
@@ -13,9 +16,10 @@ This project has been developed to help users plan and replace some tasks in the
 
 ## Built With
 
-While developing this project, JavaScript was used as the programming language. It was written in EcmaScript 6 and higher standards and developed with functional programming paradigm. Work was done on component architecture with the React library, and additionally, "id" values were assigned to each object to be used in the project using the UUID (Universal Unique Identifier) package. HTML5 and CSS3 were used while developing the interface. In addition to these, he used "Font Awesome" icons while styling some of the buttons.
+While developing this project, JavaScript was used as the programming language. It was written in ECMAScript 6 and above standards and developed with a functional programming paradigm. Work has been done on the component architecture with the React library and also "id" values have been assigned to each object to be used in the project by using the UUID (Universal Unique Identifier) package. While developing the interface, HTML5 and CSS3 technologies were used, and the positions of the elements on the screen were determined with the flexbox feature. In addition to these, he used "Font Awesome" icons while shaping some of the buttons.
 
 * [React](https://react.dev/)
+* [CSS3 flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Font Awesome](https://fontawesome.com/)
 
 ## Getting Started
@@ -38,7 +42,7 @@ npm install npm@latest -g
 1. Clone the repo
 
 ```sh
-git clone https://github.com/your_username_/Project-Name.git
+git clone https://github.com/FiratCanTas/React-To-Do-List-App.git
 ```
 
 . Install NPM packages
