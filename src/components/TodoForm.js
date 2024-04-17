@@ -6,7 +6,11 @@ const TodoForm = ({ addTodo }) => {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    addTodo(value);
+    if (!value.trim().length) {
+      alert("Please enter valid task!");
+    } else {
+      addTodo(value);
+    }
 
     setValue("");
   };
